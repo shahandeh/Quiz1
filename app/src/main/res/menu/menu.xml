@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="A"
+        android:id="@+id/enqueueFragment"
+        android:icon="@drawable/ic_person"/>
+    <item android:title="B"
+        android:id="@+id/executeFragment"
+        android:icon="@drawable/ic_setting"/>
+    <item android:title="C"
+        android:id="@+id/glideFragment"
+        android:icon="@drawable/ic_share"/>
+</menu>
